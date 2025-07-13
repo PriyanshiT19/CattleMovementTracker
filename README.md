@@ -222,5 +222,3 @@ This project is **free for all** - use, modify, and distribute without any restr
 - [ ] Push notifications for alerts
 - [ ] Export functionality for reports
 - [ ] Multi-farm support
-
-
