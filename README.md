@@ -26,7 +26,7 @@ A real-time web application for monitoring and tracking cattle movements across 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/cattle-movement-tracker.git
+   git clone https://github.com/PriyanshiT19/cattle-movement-tracker.git
    cd cattle-movement-tracker
    ```
 
